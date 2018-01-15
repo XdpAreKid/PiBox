@@ -100,7 +100,7 @@ STATICFILES_DIRS = (
     BASE_DIR+STATIC_URL,
 )
 MEDIA_URL = '/media/'
-MEDIA_ROOT = '/home/shares/'
+MEDIA_ROOT = '/mnt/xdp_cloud/'
 
 TEMPLATE_DIRS = (os.path.join(  BASE_DIR, 'templates') ,)
 

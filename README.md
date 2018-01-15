@@ -1,6 +1,23 @@
 # PiBox #
 PiBox is a web control Interface running on Embedded Board, written in python and django.<br>
 With PiBox，you can do things like that:
+
+TODO:
+1. update django==2.0
+2. Chinese support in filemanager
+3. change yaaw to AriaWebUI
+4. add video support in filemanager
+5. add ui to control gpio
+6. change pillow to matplotlib
+7. add easy way to connect to yeelink
+8. add gitlab support
+9. optimize efficient
+10. add mobile support
+11. add webcamera support
+12. add baiduyun support in nas
+13. add weather support in index
+
+
 ![image](http://www.iotwrt.com/jpg/pb1.png)
 ## Usage 
 See these steps for a  build guide(cd Pibox).<br>
